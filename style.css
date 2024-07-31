@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Changa:wght@300&family=Poppins:ital,wght@0,100;0,200;0,500;1,100&family=Rubik+Moonrocks&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Changa:wght@300&family=Poppins:ital,wght@0,100;0,200;0,500;1,100&family=Rubik+Moonrocks&display=swap');
 
 *{
     font-family: 'Poppins', sans-serif;
@@ -44,7 +44,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(imagee.jpeg);
+    background-image: url(/Images/imagee.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover ;
