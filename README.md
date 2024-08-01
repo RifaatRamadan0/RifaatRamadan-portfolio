@@ -10,6 +10,5 @@ Welcome to my portfolio! This is a showcase of my projects, skills, and experien
 ## Technology Used  
 - HTML  
 - CSS  
-- JavaScript 
 
 Check out my portfolio at [RifaatRamadan-portfolio](https://test50.w3spaces.com/index.html)
